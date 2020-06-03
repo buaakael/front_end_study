@@ -20,11 +20,11 @@ HTML标签是由尖括号包围的关键词
 
 ## HTML基本结构标签
 
-标签名|定义|说明
-------|----|----
- <html></html> |HTML标签|根标签
- <head></head> |文档的头部|head标签中必须设置title标签
- <title></title> |文档的标题|网页标题
- <body></body> |文档的主体|页面内容基本都放在body里面
+|标签名|定义|说明|
+|------|----|----|
+| <html></html> |HTML标签|根标签|
+| <head></head> |文档的头部|head标签中必须设置title标签|
+| <title></title> |文档的标题|网页标题|
+| <body></body> |文档的主体|页面内容基本都放在body里面|
 
 
