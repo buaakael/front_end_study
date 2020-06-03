@@ -7,14 +7,14 @@ Front end learning notes.
 + 行为Behavior(JavaScript)  
 
 # HTML
-## 01 HTML语法规范
+## HTML语法规范
 
-HTML标签是由尖括号包围的关键词  
+**HTML标签是由尖括号包围的关键词**  
 + 开始标签<html>  
 + 结束标签</html>  
 + 单标签<br/>  
 
-双标签关系  
+**双标签关系**  
 + 包含关系  
 + 并列关系  
 
@@ -22,9 +22,16 @@ HTML标签是由尖括号包围的关键词
 
 |标签名|定义|说明|
 |------|----|----|
-| <html></html> |HTML标签|根标签|
-| <head></head> |文档的头部|head标签中必须设置title标签|
-| <title></title> |文档的标题|网页标题|
-| <body></body> |文档的主体|页面内容基本都放在body里面|
+|`<html></html>` |HTML标签|根标签|
+|`<head></head>` |文档的头部|head标签中必须设置title标签|
+|`<title></title>` |文档的标题|网页标题|
+|`<body></body>` |文档的主体|页面内容基本都放在body里面|
 
++ `<!DOCTYPE html>`文档类型声明标签  
++ lang 语言种类  
++ meta charset=“UTF-8” 字符集  
+
+## HTML常用标签
+
+**标题标签**`<h1> - <h6>`
 
